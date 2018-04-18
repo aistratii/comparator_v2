@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/image_comparator-master/image_clone_finder.iml" filepath="$PROJECT_DIR$/image_comparator-master/image_clone_finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_comparator-master/target/maven-archiver/maven-archiver (1).iml" filepath="$PROJECT_DIR$/image_comparator-master/target/maven-archiver/maven-archiver (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/storage.iml" filepath="$PROJECT_DIR$/storage/storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/storage-api/storage-api.iml" filepath="$PROJECT_DIR$/storage/storage-api/storage-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/storage-service/storage-service.iml" filepath="$PROJECT_DIR$/storage/storage-service/storage-service.iml" />
+    </modules>
+  </component>
+</project>
