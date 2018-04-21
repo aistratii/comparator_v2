@@ -4,11 +4,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/storage/pom.xml" />
-        <option value="$PROJECT_DIR$/storage/storage-api/target/maven-archiver/pom.properties" />
         <option value="$PROJECT_DIR$/storage/storage-api/pom.xml" />
         <option value="$PROJECT_DIR$/storage/storage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/comparator/pom.xml" />
+        <option value="$PROJECT_DIR$/comparator/comparator-api/pom.xml" />
+        <option value="$PROJECT_DIR$/comparator/compartor-service/pom.xml" />
         <option value="$PROJECT_DIR$/image_comparator-master/target/maven-archiver/pom.properties" />
         <option value="$PROJECT_DIR$/image_comparator-master/pom.xml" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
       </list>
     </option>
   </component>

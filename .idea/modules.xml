@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparator/comparator.iml" filepath="$PROJECT_DIR$/comparator/comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparator/comparator-api/comparator-api.iml" filepath="$PROJECT_DIR$/comparator/comparator-api/comparator-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparator/compartor-service/compartor-service.iml" filepath="$PROJECT_DIR$/comparator/compartor-service/compartor-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/image_comparator-master/image_clone_finder.iml" filepath="$PROJECT_DIR$/image_comparator-master/image_clone_finder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/image_comparator-master/target/maven-archiver/maven-archiver (1).iml" filepath="$PROJECT_DIR$/image_comparator-master/target/maven-archiver/maven-archiver (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/storage/storage.iml" filepath="$PROJECT_DIR$/storage/storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_comparator-master/target/maven-archiver/maven-archiver.iml" filepath="$PROJECT_DIR$/image_comparator-master/target/maven-archiver/maven-archiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/storage/storage-api/storage-api.iml" filepath="$PROJECT_DIR$/storage/storage-api/storage-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/storage-parent.iml" filepath="$PROJECT_DIR$/storage/storage-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/storage/storage-service/storage-service.iml" filepath="$PROJECT_DIR$/storage/storage-service/storage-service.iml" />
     </modules>
   </component>

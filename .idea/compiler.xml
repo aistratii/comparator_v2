@@ -6,18 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="client" />
+        <module name="comparator-api" />
+        <module name="compartor-service" />
         <module name="image_clone_finder" />
-        <module name="maven-archiver (1)" />
+        <module name="maven-archiver" />
         <module name="storage-api" />
         <module name="storage-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="client" target="1.5" />
+      <module name="comparator" target="1.5" />
+      <module name="comparator-api" target="1.5" />
+      <module name="compartor-service" target="1.5" />
       <module name="image_clone_finder" target="1.8" />
-      <module name="maven-archiver (1)" target="1.5" />
-      <module name="maven-archiver (2)" target="1.5" />
-      <module name="storage" target="1.5" />
+      <module name="maven-archiver" target="1.5" />
       <module name="storage-api" target="1.5" />
+      <module name="storage-parent" target="1.5" />
       <module name="storage-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
